@@ -11,7 +11,7 @@ This is my personal attempt to let [Buffalo WI-U2-433DHP](http://buffalo.jp/prod
 ## Known Devices
 
 * [Buffalo WI-U2-433DHP](http://buffalo.jp/product/wireless-lan/client/wi-u2-433dhp/)
-* [Edimax EW-7811UAC](http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/in/wireless_adapters_ac600_dual-band/ew-7811uac/)
+* [Edimax EW-7811UAC](http://us.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/us/wireless_adapters_ac600_dual-band/ew-7811uac/)
 
 ## Eduroam
 
