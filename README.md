@@ -2,7 +2,16 @@
 
 Linux Driver for USB WiFi Adapter using Realtek 8821AU
 
-This is my personal attempt to let Buffalo WI-U2-433DHP working on my Raspberry Pi 2 and CentOS 7.3.1611. And, it works!
+This is my personal attempt to let [Buffalo WI-U2-433DHP](http://buffalo.jp/product/wireless-lan/client/wi-u2-433dhp/) working on my Raspberry Pi 2 and CentOS 7.3.1611. And, it works!
+
+## Known Linux Distros
+
+* CentOS 7.3.1611
+
+## Known Devices
+
+* [Buffalo WI-U2-433DHP](http://buffalo.jp/product/wireless-lan/client/wi-u2-433dhp/)
+* [Edimax EW-7811UAC](http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/in/wireless_adapters_ac600_dual-band/ew-7811uac/)
 
 ## Eduroam
 
